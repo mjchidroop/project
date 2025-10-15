@@ -1,5 +1,7 @@
 # Project Responsive Web Design using Bootstrap
-# Date:
+# Date:15/10/2025
+## Devoloped by: Chidroop M J
+### Reference no: 25018548
 # AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
 
